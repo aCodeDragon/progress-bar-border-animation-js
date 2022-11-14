@@ -7,6 +7,7 @@ In this tutorial, I've created a way to replicate this animation for fun. If you
 This is a great way to practice your Javascript and CSS, as well as add some flavour to your hosted videos on your website.
 
 **Topics Covered**
+
 *Javascript*
 - Event Listeners
 - Video API
